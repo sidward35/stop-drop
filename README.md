@@ -1,0 +1,1 @@
+This repo contains the files used for the StopDrop plugin for Minecraft Bukkit servers.
